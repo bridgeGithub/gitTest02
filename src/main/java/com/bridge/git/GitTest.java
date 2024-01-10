@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println(2222);
         System.out.println(3333333);
         System.out.println("master update");
+        System.out.println("dev update");
 
     }
 }
